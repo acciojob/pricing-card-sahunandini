@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+#b1 {
+	width: 100px;
+	hight: 100px;
+	color: white;
+	background-color: red;
+	border-radius: 5px;
+	border-color: red;
+}

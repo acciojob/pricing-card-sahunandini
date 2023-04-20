@@ -1,17 +1,26 @@
 /*  your css code here. If applicable */
+
+body {
+	margin: 100px;
+}
+
 .container {
 	width: 300px;
-	height: 600px;
+	height: 530px;
 	background-color: #f1f1f1;
-	font-size: 30px;
+	font-size: 34px;
 	text-align: center;
-	padding: 50px;
+	padding: 55px;
 }
 
 h1 {
 	font-size: 53px;
+	margin: 0px;
 }
 
+p {
+	margin: 0px;
+}
 
 #b1 {
 	width: 150px;

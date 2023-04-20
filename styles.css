@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 .container {
 	width: 300px;
-	height: 550px;
+	height: 600px;
 	background-color: #f1f1f1;
 	font-size: 30px;
 	text-align: center;
@@ -9,15 +9,16 @@
 }
 
 h1 {
-	font-size: 70px;
+	font-size: 53px;
 }
 
 
 #b1 {
-	width: 100px;
-	hight: 100px;
+	width: 150px;
+	height: 65px;
 	color: white;
 	background-color: red;
-	border-radius: 5px;
+	border-radius: 15px;
 	border-color: red;
+	font-size: 25px;
 }
